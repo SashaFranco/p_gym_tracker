@@ -1,0 +1,11 @@
+{
+    "exercises": [
+        {
+            "name": "Sentadilla",
+            "category": "Fuerza",
+            "weight": 50,
+            "sets": 3,
+            "reps": 10
+        }
+    ]
+}
