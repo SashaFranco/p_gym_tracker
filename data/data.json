@@ -6,6 +6,57 @@
             "weight": 50,
             "sets": 3,
             "reps": 10
+        },
+        {
+            "name": "Press En banco plano",
+            "category": "Fuerza",
+            "weight": 20.0,
+            "sets": 4,
+            "reps": 10
+        },
+        {
+            "name": "Peso Muerto",
+            "category": "Fuerza",
+            "weight": 60,
+            "sets": 3,
+            "reps": 8
+        },
+        {
+            "name": "Remo con barra",
+            "category": "Fuerza",
+            "weight": 40,
+            "sets": 4,
+            "reps": 10
+        },
+        {
+            "name": "Curls de bíceps",
+            "category": "Fuerza",
+            "weight": 10,
+            "sets": 4,
+            "reps": 12
+        }
+    ],
+    "metrics": [
+        {
+            "date": "2023-12-01",
+            "weight": 70.5,
+            "chest": 95,
+            "waist": 80,
+            "hips": 90
+        },
+        {
+            "date": "2023-12-05",
+            "weight": 70.0,
+            "chest": 96,
+            "waist": 79,
+            "hips": 89
+        },
+        {
+            "date": "2023-12-10",
+            "weight": 69.8,
+            "chest": 97,
+            "waist": 78,
+            "hips": 88
         }
     ]
 }

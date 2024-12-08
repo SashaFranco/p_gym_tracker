@@ -1,4 +1,5 @@
 class Exercise:
+    
     def __init__(self, name, category, weight=0, sets=0, reps=0):
         """Inicializa un ejercicio.
         :param name: Nombre del ejercicio (str).
